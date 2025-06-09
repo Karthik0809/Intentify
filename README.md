@@ -14,6 +14,60 @@ Intentify is an advanced intent classification system powered by BERT and the Sn
 - 🔄 5-fold cross-validation for robust evaluation
 - 📱 Modern, responsive UI with Streamlit
 
+## 💼 Use Cases
+
+Intentify can be applied in various domains and applications:
+
+### 🤖 Virtual Assistant Development
+- Foundation for building voice-controlled virtual assistants
+- Understanding user intents from both text and voice inputs
+- Smart home automation systems
+
+### 🎯 Customer Service Automation
+- Integration with customer service chatbots
+- Automatic categorization of customer queries
+- Intelligent routing of customer requests
+
+### 🏠 Smart Home Applications
+- Voice control of smart home devices
+- Command understanding (SetTimer, PlayMusic, GetWeather)
+- Voice-controlled home environment
+
+### 📚 Content Management
+- Content organization and categorization
+- Automatic tagging of articles, music, or videos
+- Personalized content recommendations
+
+### ⚙️ Business Process Automation
+- Automation of routine tasks based on user intents
+- Scheduling and booking systems
+- Automated workflow systems
+
+### 📚 Educational Applications
+- Interactive learning systems
+- Student query understanding
+- Automated tutoring systems
+
+### 🏥 Healthcare Applications
+- Patient query categorization
+- Medical inquiry routing
+- Automated patient assistance
+
+### 🔬 Research and Development
+- Base for NLP research
+- BERT model performance analysis
+- Advanced language understanding systems
+
+### 📱 Mobile Applications
+- Voice command integration
+- Hands-free operation
+- Accessibility features
+
+### 🏢 Enterprise Solutions
+- Enterprise-level automation
+- Business communication processing
+- Automated business intelligence
+
 ## 🎯 Supported Intents
 
 The system can classify the following intents:
