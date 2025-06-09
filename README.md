@@ -1,6 +1,7 @@
 # Intentify - Smart Intent Classification System
 
 Intentify is an advanced intent classification system powered by BERT and the Snips dataset. It provides both text and voice input capabilities for classifying user intents with high accuracy.
+![image](https://github.com/user-attachments/assets/6d46fbb9-c110-485e-be50-3e81d09ac26f)
 
 ## 🌟 Features
 
