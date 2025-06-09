@@ -1,0 +1,2216 @@
+{
+  "data": [
+    {
+      "text": "play some jazz music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Try to play some jazz music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Play some jazz music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Play some jazz.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Some jazz music is played.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Jazz is a great music to play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Jazz is a good genre to play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Jazz is a great genre to play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Try to play some jazz music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Try to play some jazz tunes.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can play some jazz music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "There are some jazz songs you can play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "There are some jazz tunes you can play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "There are some jazz tracks you can play.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can play some jazz music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can also play some jazz music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "start playing pop songs",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Play pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Start playing pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Start playing pop music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You should start playing pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's time to start playing pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You should be playing pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You should start playing pop music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's time to start playing pop songs",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's time to start playing pop music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Begin to play pop songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Begin to play pop music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Begin to play pop songs",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Start playing music from the pop music genre.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Start playing music from the pop genre.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "put on my favorite rock playlist",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Put on my favorite music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Put on my favorite songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's on my favorite rock songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Put my favorite songs on.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's on my favorite rock band.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "It's on my favorite rock song.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I like to put on my favorite rock songs.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I like to put on my favorite rock music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I like to put on my favorite rock songs",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can put my favorites on it.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can put my favorites on the list.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I have a favorite rock song.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I have a favorite rock band.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "I have a favorite rock song list.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You can put it on my favorite rock song",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "can you play some classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Is it possible to play some classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Is it possible to play classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Can you play some music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Does anyone know if you can play some classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You are able to play classical music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Is there any classical music you can play?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Can you play music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Are there any classical music you can play?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Does anyone know if you can play some classical music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Does anyone know if they can play some classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Are there any classical music you like?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "Are there any classical songs you can play?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You are able to play some music.",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "You are able to play classical music?",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "add this song to my playlist",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This song should be added to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this song to your collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This song should be added to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add this song to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add this song to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like this song to be added to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's a song I'd like to add to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I'd like to add this song to my music collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's a song I'd like to add to my music collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's a song I'd like to add to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I'd like to add this song to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I'd like to add this song to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this to my collection",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add new jazz tracks to my playlist",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to add new jazz tracks.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to add new jazz tracks to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add new jazz tracks.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to add new jazz tracks to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add new jazz tracks to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add new jazz tracks to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "There are new jazz tracks I should add.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "There are new jazz tracks that I should add.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Add jazz tracks to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "There are new jazz tracks that I should include in my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Add jazz tracks to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Add new jazz tracks.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Jazz tracks that I can add to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Jazz tracks that I can add to my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Jazz tracks that I should add to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "include this song in my playlist",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This song should be in my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This song should be included in my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This song is in my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I will include this song in my list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I will include this song in my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I will include this song.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "In my list, include this song.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's included in my playlist.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It should be included in my playlist.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "In my music collection, include this song",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "In my list, include this song",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's included in my song list.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "My list includes this song.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "My playlist has this song included.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "My playlist includes this song.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "please add this track to my favorites",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "This track should be added to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Please add this track to your favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "Please add this track to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add this track to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to hear this track in my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It would be great if I could add this track to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this track to your favorites",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I would like to add this track to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this track to my favorites",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It's time to add this track to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "It would be great if I could add this track to my favorite ones.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "add this track to your favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to add this track to my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to add this track to my collection.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "I want to hear this track in my favorites.",
+      "intent": "AddToPlaylist"
+    },
+    {
+      "text": "rate the book I just finished reading",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I just finished the book and MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the book I just finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the book I just read.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the book that I just finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I just finished the book and MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE I just finished the book and MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I just finished the book and MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE MzE",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The book I just finished was rated by me.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Give me a rating for the book I just finished reading.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Give me a rating on the book I just finished reading.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The book I just finished is a good one.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Give me a rating for the book I just finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The book I just finished was rated.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "It's a book I just finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "It's a book I just finished reading.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "It's a book I just finished reading",
+      "intent": "RateBook"
+    },
+    {
+      "text": "how would you rate this book?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "What do you think about this book?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "How would you rate the book?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Is this book good?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you think this book is a good read?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you think this book is worth a rating?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Is this book a good one?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you think this book is worth reading?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Is this book a good book?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I want to know how you would rate this book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I want to know how you rate this book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I want to know if you would rate this book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Which book would you rate the best?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Which book would you rate the most?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Which book do you like the most?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "give a score for the book",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Give a score for the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Give a score to the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please give a score for the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please give a score for the book",
+      "intent": "RateBook"
+    },
+    {
+      "text": "You have to give a score for the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Score the book on a scale of 1 to 10.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Score the book on a scale of 0 to 100.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "You can give a score for the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Score the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "You should give a score for the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please give a score to the book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The score for the book should be given.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The score for the book should be given",
+      "intent": "RateBook"
+    },
+    {
+      "text": "There is a book.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "please rate the novel I completed",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the novel I finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please rate the novel I wrote.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please rate the novel that I finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I have completed a novel and I would appreciate it if you rate it.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you like the novel I completed?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The novel I finished should be rated by you.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I have completed a novel and I would appreciate it if you would rate it.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "I have completed a novel and would appreciate if you rate it.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The novel I completed should be rated by you.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you like the novel I finished?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "The novel I finished should be rated.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Do you rate the novel I completed?",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the novel that I finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Rate the novel I have finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "Please rate the book I finished.",
+      "intent": "RateBook"
+    },
+    {
+      "text": "what\u00e2\u20ac\u2122s the weather like tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What is the weather like tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What will the weather be like tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What will the weather be tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it going to be warm tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it going to be cold tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it going to be nice tomorrow?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Tomorrow, what will the weather be?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Tomorrow, what will the weather be like?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Tomorrow, what's the weather like?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "The weather tomorrow is unknown.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Tomorrow what is the weather going to be like?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "The weather is expected to change tomorrow.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Tomorrow what is the weather like?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "The weather is expected to be similar to tomorrow.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "will it rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it going to rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will it be raining today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Do you think it's going to rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Do you think it will rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "It's a question of will it rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will there be rain today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will it rain this day?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "It is uncertain if it will rain today.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "It's a question of will it rain today.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will the weather be nice today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will the weather be wet today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Will it get rained on today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "what\u00e2\u20ac\u2122s the temperature right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What is the temperature right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "The temperature is right now.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "The temperature right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What's the temperature right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Right now, what is the temperature?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Right now, what's the temperature?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it warm right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "What's the temperature today?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Right now what is the temperature?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "How hot are the temperatures right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "How hot is the temperature right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "right now what's the temperature",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "right now what's the temperature?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "How hot are the temperatures right right now?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "do I need an umbrella later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Do I need an umbrella?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Do I need an umbrella in the future?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it necessary for me to have an umbrella later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it necessary to have an umbrella later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Is it necessary for me to have an umbrella later on?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "I don't know if I need an umbrella later.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "I don't know if I need an umbrella in the future.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "I don't know if I need an umbrella at this point.",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Does the umbrella need to be used later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Does the umbrella need to be replaced later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Does the umbrella need to be there later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "do i need a rain umbrella later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "Should i have an umbrella later?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "do i need a rain umbrella later in life?",
+      "intent": "GetWeather"
+    },
+    {
+      "text": "book a table at an Italian restaurant",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can book a table at the restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "There is a table at the Italian restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "There is a table at the restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "At an Italian restaurant, you can book a table.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Book a table at the restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The Italian restaurant has a table for you to book.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The Italian restaurant has a table for you to sit at.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Go to an Italian restaurant and book a table.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Book a table at the restaurant",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "It's possible to book a table at an Italian restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Book a table at an Italian restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The restaurant has a table for you to book.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "It's possible to book a table at an Italian restaurant",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The restaurant has a table for you to sit at.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The restaurant has a table for you to book at.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "reserve a restaurant for two",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can reserve a restaurant for two.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "For two, reserve a restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can reserve a restaurant for two people.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to, you can reserve a restaurant for two.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want, you can reserve a restaurant for two.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to have a restaurant for two, reserve it.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A restaurant for two.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A restaurant for two is available.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Reserve a restaurant for two.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Reserve a restaurant for two people.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A restaurant for two is a good idea.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Reserve a restaurant for two people",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to, you can reserve a restaurant for a couple of people.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to, you can reserve a restaurant for a couple of dollars.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "I want to book a dinner reservation",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "I would like to make a dinner reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "I want to make a reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "I want to make a reservation for dinner.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "There is a dinner reservation that I want to make.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "There is a dinner reservation that I would like to make.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "There is a dinner reservation that I want to book.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The dinner reservation I want to make is not available at this time.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Someone wants to book a dinner reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The dinner reservation I want to make is not available at the moment.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "The dinner reservation I want to make is not available at this moment.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Someone wants to book a dinner reservation",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Someone wants to book a restaurant reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A dinner reservation would be great.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A dinner reservation is what I want.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "A dinner reservation is something I want to make.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "make a dinner reservation at an Italian place",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can make a reservation at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can make a dinner reservation at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "You can make a reservation for dinner.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "At an Italian place, make a reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "At an Italian place, you can make a dinner reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "At an Italian place, you can make a reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Make a reservation at a restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "It's a good idea to make a dinner reservation at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Make a reservation for a meal.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "Make a dinner reservation.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "It's a good idea to make a dinner reservation at an Italian restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "It is possible to make a reservation at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to make a reservation, make it at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to make a reservation, you should make it at an Italian place.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "If you want to make a reservation, make it at an Italian restaurant.",
+      "intent": "BookRestaurant"
+    },
+    {
+      "text": "tell me the latest news",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Tell me the latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Tell me what's happening.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Tell me about the latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please tell me about the latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please tell me the most recent news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I would like to know the latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The latest news?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I would like to hear the latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please tell me about the latest news",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I would like to know the latest news",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The latest news to me.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The latest news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What is the latest news?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What's the latest news?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What's the newest news?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "news update please",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please get the news update.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please receive a news update.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please get a news update.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please be updated with the news",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please be updated on the news",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Thank you for the news update",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Please be updated with the news.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "It is important that there be a news update.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "It is important that there be a news update please.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "It is important that there is a news update.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The news should be updated",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Thank you for the news update!",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Thank you for the news update?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The news update should be here",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The news should be updated please",
+      "intent": "GetNews"
+    },
+    {
+      "text": "what\u00e2\u20ac\u2122s new today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What is new today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What are the new things today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What new things are happening today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What's new today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Is there a new thing today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today, what is new?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today, what's new?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What new thing?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What new thing is going on today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "What new thing is going on right now?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today what is new?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Which one is new today?",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Which one is new today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "give me today\u00e2\u20ac\u2122s headlines",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I want today's headlines.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Give me the headlines today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today's headlines, give me that.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I would appreciate it if you gave me today's headlines.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today's headlines, give me.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "I would appreciate it if you would give me today's headlines.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "Today's headlines, give me them.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The headlines for today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "The headlines should be given to me today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "GIVE ME THE ARTICLES",
+      "intent": "GetNews"
+    },
+    {
+      "text": "give me some of the headlines today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "give me some of the news today.",
+      "intent": "GetNews"
+    },
+    {
+      "text": "give me some of the headlines today",
+      "intent": "GetNews"
+    },
+    {
+      "text": "set a timer for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Set a timer for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "For 10 minutes, set a timer.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Set a timer for a while.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "timer for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It's best to set a timer for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "There is a timer for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should be set for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It's best to have a timer for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You can set a timer for a short period of time.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should be set for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should be set for a few minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You can set a timer.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Put a timer on for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "There is a timer for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You can set a timer for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "remind me in 5 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "In 5 minutes, remind me.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "I need to be reminded in 5 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "remind me in 5 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should remind me in 5 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "5 minutes is enough to remind me.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "5 minutes is all it takes to remind me.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "5 minutes to remind me.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should remind me in five minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should remind me in 5 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It's in 5 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It will take 5 minutes to remind me.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It's in 5 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Referring me to 5 minutes from now.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Referring me to 5 minutes later.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Referring me to 5 minutes from now",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "start a countdown for 20 seconds",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Start a timer for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Start a clock for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "For 20 seconds, start a clock.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should be started for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should start for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You have to start a timer for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Start with 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should begin for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "20 seconds is the time to start a clock.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should start a timer for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "20 seconds is the time to start a countdown.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "20 seconds is the time to start a timer.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should start a clock for 20 seconds.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Start with a 20 second timer.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "For 20 seconds, start a countdown.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "please set a timer for ten minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Set a timer for ten minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Please set a timer for ten minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "Set a timer for ten minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "For ten minutes, please set a timer.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It is advisable to set a timer for ten minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "The timer should be set for ten minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "For ten minutes, please.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It is advisable to set a timer for 10 minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "If you can set a timer for ten minutes, that would be great.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "If you can set a timer for ten minutes, please do it.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "It is advisable to set a timer for a short time.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "If you can set a timer for ten minutes, that will be great.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should set a timer for ten minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should set a timer for ten minutes.",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "You should set a timer for 10 minutes",
+      "intent": "SetTimer"
+    },
+    {
+      "text": "find a movie playing nearby",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "There is a movie playing nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "There is a movie playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "You can find a movie playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "It's possible to find a movie playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "It's possible to find a movie playing in the area.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "It's possible to find a movie playing in the vicinity.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Find a movie theater.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Find a movie that's playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Find a movie that is showing in the area.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "There are movies playing nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Look for a movie playing nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "The movie is playing nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Look for a movie that is playing nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Look for a movie playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "There are movies playing near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "are there any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Is there anything happening this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Is there any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you know if there are any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Can you tell me if there are any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Can you tell me about any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you know if there is any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you know about any events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Can you tell me if there are any events this weekend.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "What is happening this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "What are the events this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "What is happening this weekend, are there any events?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Is there any event this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "What events are happening this weekend?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "show me movie times",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Show me movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "I want to know the movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Show me the times of the movies.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you have movie times for me?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "I would appreciate it if you showed me movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Let me know the times of the movies.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "I would appreciate it if you could show me movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "I would appreciate it if you showed me the movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you have movie times?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Let me know the movie times.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Let me know the times of the movie.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Do you have movie times to show me?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Showing the times of movies.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Showing the times of the movies I want to watch.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Showing the times for movies.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "find nearby movie screenings",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "There are nearby movie screenings.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Search for nearby movie theaters.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Find movie theaters nearby.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "You can find nearby movie theaters.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Find a movie theater near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Search by location to find nearby movie screenings.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Search by location to find nearby movie theaters.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Search by location for nearby movie screenings.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Movie theaters near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Nearby movie theaters.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Movie screenings near you.",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "nearby movie theaters",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "Movie screenings near you?",
+      "intent": "SearchScreeningEvent"
+    },
+    {
+      "text": "I don\u00e2\u20ac\u2122t know what I want",
+      "intent": "Other"
+    },
+    {
+      "text": "I don't know what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I have no idea what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I do not know what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm not quite sure what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I don't have a clue what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I don't know what to do.",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm not quite sure what to want.",
+      "intent": "Other"
+    },
+    {
+      "text": "That is what I don't know.",
+      "intent": "Other"
+    },
+    {
+      "text": "That is what I do not know.",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm not quite sure what I want",
+      "intent": "Other"
+    },
+    {
+      "text": "That is what I don't know",
+      "intent": "Other"
+    },
+    {
+      "text": "I canTMt decide.",
+      "intent": "Other"
+    },
+    {
+      "text": "I canTMt tell you what you want.",
+      "intent": "Other"
+    },
+    {
+      "text": "I canTMt tell you what I want.",
+      "intent": "Other"
+    },
+    {
+      "text": "can you help me?",
+      "intent": "Other"
+    },
+    {
+      "text": "Can you help?",
+      "intent": "Other"
+    },
+    {
+      "text": "I need help.",
+      "intent": "Other"
+    },
+    {
+      "text": "How can you help me?",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm wondering if you can help me.",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm in need of assistance, can you help me?",
+      "intent": "Other"
+    },
+    {
+      "text": "I'm in need of assistance, can you help?",
+      "intent": "Other"
+    },
+    {
+      "text": "I am in need of assistance, can you help me?",
+      "intent": "Other"
+    },
+    {
+      "text": "I am in need of assistance, can you help?",
+      "intent": "Other"
+    },
+    {
+      "text": "How can you help?",
+      "intent": "Other"
+    },
+    {
+      "text": "I am in need of assistance, can you help me.",
+      "intent": "Other"
+    },
+    {
+      "text": "What assistance can you give me?",
+      "intent": "Other"
+    },
+    {
+      "text": "How can I help?",
+      "intent": "Other"
+    },
+    {
+      "text": "What assistance can you give?",
+      "intent": "Other"
+    },
+    {
+      "text": "What assistance can you give to me?",
+      "intent": "Other"
+    },
+    {
+      "text": "tell me a joke",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell me a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell me a funny story.",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell me something.",
+      "intent": "Other"
+    },
+    {
+      "text": "I want to know a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "I want to hear a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "Please tell me a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell a joke to me.",
+      "intent": "Other"
+    },
+    {
+      "text": "Do you have any jokes?",
+      "intent": "Other"
+    },
+    {
+      "text": "You should tell me a joke",
+      "intent": "Other"
+    },
+    {
+      "text": "You should tell me a funny thing",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell the person a joke.",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell the person a joke",
+      "intent": "Other"
+    },
+    {
+      "text": "Tell my friend a joke",
+      "intent": "Other"
+    },
+    {
+      "text": "make me laugh",
+      "intent": "Other"
+    },
+    {
+      "text": "Make me laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "Make me happy.",
+      "intent": "Other"
+    },
+    {
+      "text": "It will make me laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "It will make me happy.",
+      "intent": "Other"
+    },
+    {
+      "text": "It will make me smile.",
+      "intent": "Other"
+    },
+    {
+      "text": "I would like to make you laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "I want you to make me laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "I want to make you laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "laugh at me",
+      "intent": "Other"
+    },
+    {
+      "text": "laugh at me.",
+      "intent": "Other"
+    },
+    {
+      "text": "laugh.",
+      "intent": "Other"
+    },
+    {
+      "text": "It will make me laugh",
+      "intent": "Other"
+    },
+    {
+      "text": "It should make me laugh.",
+      "intent": "Other"
+    }
+  ]
+}
